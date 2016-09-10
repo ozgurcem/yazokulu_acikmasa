@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="acikmasa/acikmasa.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="acikmasa/QSTodoListViewController.cs">
+    <Files>
+      <File FileName="acikmasa/Main.cs" Line="1" Column="1" />
+      <File FileName="acikmasa/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="acikmasa/Info.plist" />
+      <File FileName="acikmasa/QSTodoService.cs" Line="1" Column="4" />
+      <File FileName="acikmasa/QSTodoListViewController.cs" Line="115" Column="12" />
+      <File FileName="acikmasa/packages.config" Line="1" Column="1" />
+      <File FileName="acikmasa/ToDoItem.cs" Line="1" Column="1" />
+      <File FileName="acikmasa/QSTodoListViewController.designer.cs" Line="18" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.acikmasa PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.83D964AE-A153-424F-910A-943AF879F037" />
+</Properties>
